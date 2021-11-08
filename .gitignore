@@ -1,0 +1,4 @@
+.gradle
+.history
+build/
+local.properties
